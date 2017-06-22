@@ -1,6 +1,6 @@
 ## Description
 
-I download a lot of videos from youtube, at the best quality audio/vidoe possible, and it was becomming quite tedius to write long strings of commands of youtube-dl everytime. So, i just put everything i wanted in a bash script and saved me some trouble.
+I download a lot of videos from youtube, at the best quality audio/video possible, and it was becomming quite tedius to write long strings of commands of youtube-dl everytime. So, i just put everything i wanted, the way i wanted in a bash script and saved me some trouble.
 
 Feel free to hack them, modify them or suggest enhancements. Enjoy!
 
